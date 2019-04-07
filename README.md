@@ -1,2 +1,5 @@
 # git-commands-learning
-learn git commands
+learn git commands such as 
+```
+git commit --amend
+```
